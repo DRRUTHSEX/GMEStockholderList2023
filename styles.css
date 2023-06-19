@@ -14,8 +14,7 @@ body {
     height: 80%;
     border: 1px solid #000;
     padding: 10px;
-    overflow: scroll; /* allows for scrolling if the content exceeds the container's dimensions */
-    -webkit-overflow-scrolling: touch; /* specific to iOS devices */
+
 }
 
 #pdfEmbed {
